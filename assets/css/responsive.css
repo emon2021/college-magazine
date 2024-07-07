@@ -1,0 +1,8 @@
+@media(max-width: 992px){
+    .navbar-brand{
+        font-size: 40px;
+    }
+    .offNav{
+        display: block !important;
+    }
+}
